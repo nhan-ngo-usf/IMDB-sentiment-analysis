@@ -10,13 +10,15 @@ The model is a simple RNN model with an embedding layer, a simple RNN layer, and
 
 ## Result
 
+
+
 ## Usage
 
 To use this repository:
 
 1. Clone the repository
 
-git clone
+git clone https://github.com/nhan-ngo-usf/IMDB-sentiment-analysis.git
 
 2. Install the required packages:
 
