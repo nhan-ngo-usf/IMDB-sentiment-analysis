@@ -9,7 +9,9 @@ This Jupyter Notebook provides a demonstration of training a Simple RNN model on
 The model is a simple RNN model with an embedding layer, a simple RNN layer, and a dense layer. The model is compiled with the rmspop optimizer and binary cross-entropy loss.
 
 ## Result
+![accuracy_graph](https://github.com/nhan-ngo-usf/IMDB-sentiment-analysis/assets/65501976/50bf5121-cda1-43ac-8522-8357c88cda4c)
 
+![loss_graph](https://github.com/nhan-ngo-usf/IMDB-sentiment-analysis/assets/65501976/559817c8-1ece-4e0a-8c47-1c59f2c8e9e3)
 
 
 ## Usage
